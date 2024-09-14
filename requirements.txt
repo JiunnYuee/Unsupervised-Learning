@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+scikit-learn==1.3.2
+numpy
+scipy
+folium
+streamlit-folium==0.22.0
+seaborn
+transformers
+wordcloud
+torch
