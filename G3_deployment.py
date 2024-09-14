@@ -17,7 +17,7 @@ from sklearn.manifold import TSNE
 from wordcloud import WordCloud
 import time
 
-df = pd.read_csv("C:/Users/Windows10/Downloads/processed_data.csv")
+df = pd.read_csv("processed_data.csv")
 
 st.title("Amazon Sales")
 st.header("Enter a Word or Phrase")
